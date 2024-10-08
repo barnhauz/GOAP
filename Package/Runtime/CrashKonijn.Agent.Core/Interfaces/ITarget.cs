@@ -6,5 +6,6 @@ namespace CrashKonijn.Agent.Core
     {
         public Vector3 Position { get; }
         public bool IsValid();
+        public DestinationPoint DestinationPoint { get; }
     }
 }

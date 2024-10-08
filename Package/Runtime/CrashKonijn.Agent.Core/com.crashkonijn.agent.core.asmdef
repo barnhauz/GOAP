@@ -1,7 +1,9 @@
 {
     "name": "CrashKonijn.Agent.Core",
     "rootNamespace": "CrashKonijn.Agent.Core",
-    "references": [],
+    "references": [
+    "PathfindingExtension"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

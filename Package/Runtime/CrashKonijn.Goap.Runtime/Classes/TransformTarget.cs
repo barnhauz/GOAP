@@ -18,6 +18,8 @@ namespace CrashKonijn.Goap.Runtime
             }
         }
 
+        public DestinationPoint DestinationPoint { get; }
+
         public TransformTarget(Transform transform)
         {
             this.Transform = transform;
