@@ -1,5 +1,6 @@
 ﻿using CrashKonijn.Agent.Core;
 using UnityEngine;
+using PathfindingExtension;
 
 namespace CrashKonijn.Goap.Runtime
 {

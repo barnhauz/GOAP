@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using PathfindingExtension;
 
 namespace CrashKonijn.Agent.Core
 {
